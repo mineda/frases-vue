@@ -1,5 +1,5 @@
-# Projeto em branco para aula de Vue.js
-Contém Vuex, Vue-Router e Axios.
+# Projeto exemplo de front-end com Vue.js
+É preciso alterar a URL base do back-end no arquivo "main.js". O projeto com o back-end se encontra em: https://github.com/mineda/spring-exemplo-3
 
 ## Project setup
 ```
