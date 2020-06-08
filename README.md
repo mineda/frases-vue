@@ -1,4 +1,5 @@
-# frases
+# Projeto em branco para aula de Vue.js
+Contém Vuex, Vue-Router e Axios.
 
 ## Project setup
 ```
