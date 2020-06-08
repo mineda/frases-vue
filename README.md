@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mineda/frases-vue)
+
 # Projeto exemplo de front-end com Vue.js
 É preciso alterar a URL base do back-end no arquivo "main.js". O projeto com o back-end se encontra em: https://github.com/mineda/spring-exemplo-3
 
